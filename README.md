@@ -1,11 +1,7 @@
-#📅 SchoolPlanner Plus 
-
-#Horarios inteligentes para un aprendizaje óptimo
-
-# 🏫 SchoolSync Pro 📚
+# 🏫 SchoolPlanner Plus 📚
 
 ## 🎓 Sistema de Gestión de Horarios Escolares
-
+#Horarios inteligentes para un aprendizaje óptimo
 SchoolSync Pro es una solución completa para la gestión eficiente de horarios escolares, diseñada para simplificar la vida de administradores, profesores y estudiantes.
 
 ### 🌟 Características principales
