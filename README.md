@@ -1,4 +1,4 @@
-# 🏫 SchoolPlanner Plus 📚
+# 🏫 EDUTIME 📚
 
 ## 🎓 Sistema de Gestión de Horarios Escolares
 #Horarios inteligentes para un aprendizaje óptimo
@@ -48,4 +48,4 @@ Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más det
 
 ---
 
-¡Gracias por usar SchoolSync Pro! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. 🙌
+¡Gracias por usar EDUTIME Pro! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos. 🙌
