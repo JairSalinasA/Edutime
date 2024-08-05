@@ -102,5 +102,11 @@
   <ItemGroup>
     <Folder Include="Forms\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EduTime.Domain\EduTime.Domain.csproj">
+      <Project>{475ba4af-76ac-4e1e-8b49-65d6b34c0872}</Project>
+      <Name>EduTime.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
